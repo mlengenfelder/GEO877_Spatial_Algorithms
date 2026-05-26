@@ -41,3 +41,5 @@ This project requires a robust geometric stack managed via a Conda Environment.
 * Now, download the raw data and place it into the raw data folder, you just created by running the firs Cell of the notebook.
 * Make sure the DE-Folder is unzipped!
 * GEO877_Flickr_Project/data/raw/
+
+[Download here](https://drive.google.com/drive/folders/1gX1FCVZ846vzG8BvoCv7m0Nd_13y6k50?usp=share_link) 
