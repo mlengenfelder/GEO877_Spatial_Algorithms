@@ -12,3 +12,7 @@ dependencies:
   - jupyter
   - ipykernel
   - fiona
+  - pyarrow
+  - shapely
+  - folium 
+
