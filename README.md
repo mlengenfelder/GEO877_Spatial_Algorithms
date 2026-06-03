@@ -12,8 +12,6 @@ Specificly, they are:
 * Point in Polygon
 * NNI-Index, using Haversine distance
 
----
-
 ## Setup Instructions
 
 This project requires a robust geometric stack managed via a Conda Environment.
@@ -38,7 +36,6 @@ This project requires a robust geometric stack managed via a Conda Environment.
 
 4. **Download and Position the Raw Data** 
 
-* Now, download the raw data and place it into the raw data folder, you just created by running the firs Cell of the notebook.
+* Now, download the raw data and place it into the raw data folder, you just created by running the firs Cell of the notebook. [Download here](https://drive.google.com/drive/folders/1gX1FCVZ846vzG8BvoCv7m0Nd_13y6k50?usp=share_link) 
 * Make sure the DE-Folder is unzipped!
-* GEO877_Flickr_Project/data/raw/
-* [Download here](https://drive.google.com/drive/folders/1gX1FCVZ846vzG8BvoCv7m0Nd_13y6k50?usp=share_link) 
+* Place it into: `GEO877_Flickr_Project/data/raw/`
